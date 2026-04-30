@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="vb.png" alt="CLoUD-JAM Logo" width="700">
+<img src="demo.gif" alt="demo" width="600">
 </p>
 
 <h1 align="center">👾 CLoUD JAM – WiFi Jamming Tool 👾</h1>
